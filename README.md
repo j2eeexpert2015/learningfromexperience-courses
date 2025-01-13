@@ -10,3 +10,12 @@
 | Java Debugging With IntelliJ IDEA | https://www.udemy.com/course/java-debugging-with-intellij-idea | JANPROMO | 17th Jan 2025 |
 | Creational Design Patterns in Java | https://www.udemy.com/course/design-patterns-in-javacreational | NA | NA | 
 | Eclipse Debugging Techniques And Tricks | https://www.udemy.com/course/eclipse-debugging-techniques-and-tricks | NA | NA |
+
+## Want a Discount Code?
+
+Want a discount on one of my courses?  You can:
+
+* **Email me:**  [j2eeexpert2015@gmail.com](mailto:j2eeexpert2015@gmail.com)
+* **Join my Slack community:** [https://join.slack.com/t/learningfromexp/shared_invite/zt-1fnksxgd0-_jOdmIq2voEeMtoindhWrA](https://join.slack.com/t/learningfromexp/shared_invite/zt-1fnksxgd0-_jOdmIq2voEeMtoindhWrA) 
+
+I'm always happy to help!
