@@ -13,6 +13,15 @@ Welcome to my Udemy course collection! Use the code **JAN25PROMO** for a limited
 | Creational Design Patterns in Java | [Enroll Now](https://www.udemy.com/course/design-patterns-in-javacreational) | 🏷️ JAN25PROMO | ⏳ 17th Feb 2025 |
 | Eclipse Debugging Techniques And Tricks | [Enroll Now](https://www.udemy.com/course/eclipse-debugging-techniques-and-tricks) | 🏷️ JAN25PROMO | ⏳ 17th Feb 2025 |
 
+## 🎁 Free Course 🎁
+
+Get started with Python debugging absolutely free!
+
+| Course | Description | Enroll Now |
+|---|---|---|
+| Python Debugging in VS Code | A beginner-friendly introduction to debugging Python code in Visual Studio Code.  | [Enroll Now](https://www.udemy.com/course/get-started-with-python-debugging-in-visual-studio-code) |
+
+
 ## 💡 Want a Discount Code? 💡
 
 Want a discount on one of my courses? You can:
