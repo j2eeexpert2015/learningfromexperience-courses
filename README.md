@@ -1,32 +1,115 @@
-# 🎓 My Udemy Courses 🎓
+# 🎓 My Udemy Course Collection
 
-Welcome to my Udemy course collection! Use the code **JAN25PROMO** for a limited-time discount on all courses listed below. This offer is valid from February 12th, 2025, to February 17th, 2025 (PST). 🚀
+> 🚨 **WANT A COUPON CODE?**  
+> 📢 **Please request via email or Slack as early as possible!**  
+> 📧 Email: `j2eeexpert2015@gmail.com`  
+> 💬 Slack: [Click to Join](https://join.slack.com/t/learningfromexp/shared_invite/zt-1fnksxgd0-_jOdmIq2voEeMtoindhWrA)  
+> 🎯 **Discounts are not public — they're sent on request only. Act early!**
 
-| 📚 Course Name | 🔗 URL | 🎟️ Discount Coupon | ⏳ Expiry Date |
-|---|---|---|---|
-| IntelliJ IDEA Tips & Tricks: Boost Your Java Productivity | [Enroll Now](https://www.udemy.com/course/intellij-idea-tips-tricks-boost-your-java-productivity) | 🏷️ JAN25PROMO | ⏳ 17th Feb 2025 |
-| Complete GitHub Desktop Guide | [Enroll Now](https://www.udemy.com/course/getting-started-with-github-desktop) | 🏷️ JAN25PROMO | ⏳ 17th Feb 2025 |
-| Learn Java Debugging using VS Code | [Enroll Now](https://www.udemy.com/course/java-debugging-with-visual-studio-code-the-ultimate-guide) | 🏷️ JAN25PROMO | ⏳ 17th Feb 2025 |
-| Learn Python Debugging With PyCharm IDE | [Enroll Now](https://www.udemy.com/course/learn-python-debugging-with-pycharm-ide) | 🏷️ JAN25PROMO | ⏳ 17th Feb 2025 |
-| Learn to use Git and Github with Eclipse: A Complete Guide | [Enroll Now](https://www.udemy.com/course/learn-to-use-git-and-github-with-eclipse-a-complete-guide) | 🏷️ JAN25PROMO | ⏳ 17th Feb 2025 |
-| Java Debugging With IntelliJ IDEA | [Enroll Now](https://www.udemy.com/course/java-debugging-with-intellij-idea) | 🏷️ JAN25PROMO | ⏳ 17th Feb 2025 |
-| Creational Design Patterns in Java | [Enroll Now](https://www.udemy.com/course/design-patterns-in-javacreational) | 🏷️ JAN25PROMO | ⏳ 17th Feb 2025 |
-| Eclipse Debugging Techniques And Tricks | [Enroll Now](https://www.udemy.com/course/eclipse-debugging-techniques-and-tricks) | 🏷️ JAN25PROMO | ⏳ 17th Feb 2025 |
+---
 
-## 🎁 Free Course 🎁
+## 🧩 Java Debugging Courses
 
-Get started with Python debugging absolutely free!
+<table>
+  <tr>
+    <td>
+      <a href="https://www.udemy.com/course/eclipse-debugging-techniques-and-tricks">
+        <img src="https://img-c.udemycdn.com/course/480x270/417118_3afa_4.jpg" width="260">
+        <br/><b>Eclipse Debugging Techniques And Tricks</b>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.udemy.com/course/java-debugging-with-intellij-idea">
+        <img src="https://img-c.udemycdn.com/course/480x270/2608314_47e4.jpg" width="260">
+        <br/><b>Java Debugging With IntelliJ IDEA</b>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.udemy.com/course/java-debugging-with-visual-studio-code-the-ultimate-guide">
+        <img src="https://img-c.udemycdn.com/course/480x270/5029852_d692_3.jpg" width="260">
+        <br/><b>Java Debugging using VS Code</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
-| Course | Description | Enroll Now |
-|---|---|---|
-| Python Debugging in VS Code | A beginner-friendly introduction to debugging Python code in Visual Studio Code.  | [Enroll Now](https://www.udemy.com/course/get-started-with-python-debugging-in-visual-studio-code) |
+---
 
+## 💡 Java Productivity & Design Patterns
 
-## 💡 Want a Discount Code? 💡
+<table>
+  <tr>
+    <td>
+      <a href="https://www.udemy.com/course/intellij-idea-tips-tricks-boost-your-java-productivity">
+        <img src="https://img-c.udemycdn.com/course/480x270/6180669_7726.jpg" width="260">
+        <br/><b>IntelliJ IDEA Tips & Tricks</b>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.udemy.com/course/design-patterns-in-javacreational">
+        <img src="https://img-c.udemycdn.com/course/480x270/779796_5770_2.jpg" width="260">
+        <br/><b>Creational Design Patterns in Java</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
-Want a discount on one of my courses? You can:
+---
 
-📧 **Email me:** [j2eeexpert2015@gmail.com](mailto:j2eeexpert2015@gmail.com)  
-💬 **Join my Slack community:** [Join Now](https://join.slack.com/t/learningfromexp/shared_invite/zt-1fnksxgd0-_jOdmIq2voEeMtoindhWrA)
+## 🧪 Python Debugging Courses
 
-🚀 **Happy Learning!**
+<table>
+  <tr>
+    <td>
+      <a href="https://www.udemy.com/course/learn-python-debugging-with-pycharm-ide">
+        <img src="https://img-c.udemycdn.com/course/480x270/4840890_12a3_2.jpg" width="260">
+        <br/><b>Python Debugging With PyCharm IDE</b>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.udemy.com/course/python-debugging-with-visual-studio-code">
+        <img src="https://img-c.udemycdn.com/course/480x270/5029842_d36f.jpg" width="260">
+        <br/><b>Python Debugging with VS Code</b>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.udemy.com/course/get-started-with-python-debugging-in-visual-studio-code">
+        <img src="https://img-c.udemycdn.com/course/480x270/6412275_a17d.jpg" width="260">
+        <br/><b>Python Debugging in VS Code (Free)</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠 Git & GitHub Courses
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.udemy.com/course/getting-started-with-github-desktop">
+        <img src="https://img-c.udemycdn.com/course/480x270/6112307_3b4e_2.jpg" width="260">
+        <br/><b>Complete GitHub Desktop Guide</b>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.udemy.com/course/learn-to-use-git-and-github-with-eclipse-a-complete-guide">
+        <img src="https://img-c.udemycdn.com/course/480x270/3369428_995b.jpg" width="260">
+        <br/><b>Git & GitHub with Eclipse</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Connect & Learn More
+
+- 📧 Email: `j2eeexpert2015@gmail.com`  
+- 💬 Slack: [Join Community](https://join.slack.com/t/learningfromexp/shared_invite/zt-1fnksxgd0-_jOdmIq2voEeMtoindhWrA)  
+- 📝 Blog: [@mrayandutta on Medium](https://medium.com/@mrayandutta)  
+- 💼 LinkedIn: [Ayan Dutta](https://www.linkedin.com/in/ayan-dutta-a41091b)  
+- 📺 YouTube: [LearningFromExperience](https://www.youtube.com/@learningfromexperience)
+
+---
