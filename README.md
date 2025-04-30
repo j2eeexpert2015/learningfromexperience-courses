@@ -56,6 +56,21 @@
 
 ---
 
+## 🧪 Java and Spring Boot Integration Testing
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.udemy.com/course/testcontainers-integration-testing-java-spring-boot">
+        <img src="https://img-c.udemycdn.com/course/480x270/6525217_8d18_2.jpg" width="260">
+        <br/><b>Integration Testing with Testcontainers: Java & Spring Boot</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🧪 Python Debugging Courses
 
 <table>
