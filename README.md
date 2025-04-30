@@ -6,6 +6,20 @@
 > 💬 Slack: [Click to Join](https://join.slack.com/t/learningfromexp/shared_invite/zt-1fnksxgd0-_jOdmIq2voEeMtoindhWrA)  
 > 🎯 **Discounts are not public — they're sent on request only. Act early!**
 
+
+## 🧪 Java and Spring Boot Integration Testing
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.udemy.com/course/testcontainers-integration-testing-java-spring-boot">
+        <img src="https://img-c.udemycdn.com/course/480x270/6525217_8d18_2.jpg" width="260">
+        <br/><b>Integration Testing with Testcontainers: Java & Spring Boot</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🧩 Java Debugging Courses
@@ -56,20 +70,6 @@
 
 ---
 
-## 🧪 Java and Spring Boot Integration Testing
-
-<table>
-  <tr>
-    <td>
-      <a href="https://www.udemy.com/course/testcontainers-integration-testing-java-spring-boot">
-        <img src="https://img-c.udemycdn.com/course/480x270/6525217_8d18_2.jpg" width="260">
-        <br/><b>Integration Testing with Testcontainers: Java & Spring Boot</b>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🧪 Python Debugging Courses
 
