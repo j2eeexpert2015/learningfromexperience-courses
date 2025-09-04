@@ -6,6 +6,23 @@
 > 💬 Slack: [Click to Join](https://join.slack.com/t/learningfromexp/shared_invite/zt-1fnksxgd0-_jOdmIq2voEeMtoindhWrA)  
 > 🎯 **Discounts are not public — they're sent on request only. Act early!**
 
+---
+
+## 🚀 Java Virtual Threads ,Structured Concurrency and ScopedValues with Spring Boot
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.udemy.com/course/java-virtual-threads-structured-concurrency-with-spring-boot">
+        <img src="https://img-c.udemycdn.com/course/480x270/6688129_bd51.jpg" width="260">
+        <br/><b>Java Virtual Threads & Structured Concurrency with Spring Boot</b>
+      </a>
+      <br/><i>Master Virtual Threads, Structured Concurrency & Scoped Values with Spring Boot</i>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 🧪 Java and Spring Boot Integration Testing
 
@@ -16,6 +33,7 @@
         <img src="https://img-c.udemycdn.com/course/480x270/6525217_8d18_2.jpg" width="260">
         <br/><b>Integration Testing with Testcontainers: Java & Spring Boot</b>
       </a>
+      <br/><i>Test databases, message brokers, and APIs with production-like containers</i>
     </td>
   </tr>
 </table>
@@ -31,18 +49,21 @@
         <img src="https://img-c.udemycdn.com/course/480x270/417118_3afa_4.jpg" width="260">
         <br/><b>Eclipse Debugging Techniques And Tricks</b>
       </a>
+      <br/><i>Boost your Eclipse productivity with powerful debugging features</i>
     </td>
     <td>
       <a href="https://www.udemy.com/course/java-debugging-with-intellij-idea">
         <img src="https://img-c.udemycdn.com/course/480x270/2608314_47e4.jpg" width="260">
         <br/><b>Java Debugging With IntelliJ IDEA</b>
       </a>
+      <br/><i>Debug Java applications efficiently using IntelliJ IDEA</i>
     </td>
     <td>
       <a href="https://www.udemy.com/course/java-debugging-with-visual-studio-code-the-ultimate-guide">
         <img src="https://img-c.udemycdn.com/course/480x270/5029852_d692_3.jpg" width="260">
         <br/><b>Java Debugging using VS Code</b>
       </a>
+      <br/><i>Learn to debug Java apps with VS Code’s lightweight tools</i>
     </td>
   </tr>
 </table>
@@ -58,18 +79,19 @@
         <img src="https://img-c.udemycdn.com/course/480x270/6180669_7726.jpg" width="260">
         <br/><b>IntelliJ IDEA Tips & Tricks</b>
       </a>
+      <br/><i>Boost your Java productivity with IntelliJ IDEA hidden gems</i>
     </td>
     <td>
       <a href="https://www.udemy.com/course/design-patterns-in-javacreational">
         <img src="https://img-c.udemycdn.com/course/480x270/779796_5770_2.jpg" width="260">
         <br/><b>Creational Design Patterns in Java</b>
       </a>
+      <br/><i>Learn proven design patterns for building robust Java apps</i>
     </td>
   </tr>
 </table>
 
 ---
-
 
 ## 🧪 Python Debugging Courses
 
@@ -80,18 +102,21 @@
         <img src="https://img-c.udemycdn.com/course/480x270/4840890_12a3_2.jpg" width="260">
         <br/><b>Python Debugging With PyCharm IDE</b>
       </a>
+      <br/><i>Master debugging Python apps with PyCharm</i>
     </td>
     <td>
       <a href="https://www.udemy.com/course/python-debugging-with-visual-studio-code">
         <img src="https://img-c.udemycdn.com/course/480x270/5029842_d36f.jpg" width="260">
         <br/><b>Python Debugging with VS Code</b>
       </a>
+      <br/><i>Debug Python code using VS Code step by step</i>
     </td>
     <td>
       <a href="https://www.udemy.com/course/get-started-with-python-debugging-in-visual-studio-code">
         <img src="https://img-c.udemycdn.com/course/480x270/6412275_a17d.jpg" width="260">
         <br/><b>Python Debugging in VS Code (Free)</b>
       </a>
+      <br/><i>Quick start to Python debugging with VS Code</i>
     </td>
   </tr>
 </table>
@@ -107,12 +132,14 @@
         <img src="https://img-c.udemycdn.com/course/480x270/6112307_3b4e_2.jpg" width="260">
         <br/><b>Complete GitHub Desktop Guide</b>
       </a>
+      <br/><i>Learn GitHub Desktop for commits, branches & collaboration</i>
     </td>
     <td>
       <a href="https://www.udemy.com/course/learn-to-use-git-and-github-with-eclipse-a-complete-guide">
         <img src="https://img-c.udemycdn.com/course/480x270/3369428_995b.jpg" width="260">
         <br/><b>Git & GitHub with Eclipse</b>
       </a>
+      <br/><i>Use Git & GitHub directly from Eclipse IDE</i>
     </td>
   </tr>
 </table>
