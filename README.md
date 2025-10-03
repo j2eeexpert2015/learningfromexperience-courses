@@ -120,6 +120,22 @@ Request via [Slack](https://join.slack.com/t/learningfromexp/shared_invite/zt-1f
 
 ---
 
+## 🛠 Git & GitHub with Eclipse
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.udemy.com/course/learn-to-use-git-and-github-with-eclipse-a-complete-guide/?referralCode=9447DB0956D60946A217">
+        <img src="https://img-c.udemycdn.com/course/480x270/3369428_995b.jpg" width="260">
+        <br/><b>Git & GitHub with Eclipse</b>
+      </a>
+      <br/><i>Use Git & GitHub directly from Eclipse IDE</i>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🌐 Connect & Learn More
 
 - 📝 Blog: [@mrayandutta on Medium](https://medium.com/@mrayandutta)  
