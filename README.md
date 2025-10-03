@@ -1,10 +1,7 @@
-# 🎓 My Udemy Course Collection
+# 🎓 LearningFromExperience – My Udemy Course Collection
 
-> 🚨 **WANT A COUPON CODE?**  
-> 📢 **Please request via email or Slack as early as possible!**  
-> 📧 Email: `j2eeexpert2015@gmail.com`  
-> 💬 Slack: [Click to Join](https://join.slack.com/t/learningfromexp/shared_invite/zt-1fnksxgd0-_jOdmIq2voEeMtoindhWrA)  
-> 🎯 **Coupon codes are available on request — please reach out via email or Slack.!**
+## 🎟 Need a Coupon?
+Request via [Slack](https://join.slack.com/t/learningfromexp/shared_invite/zt-1fnksxgd0-_jOdmIq2voEeMtoindhWrA) or email `j2eeexpert2015@gmail.com`.
 
 ---
 
@@ -125,10 +122,10 @@
 
 ## 🌐 Connect & Learn More
 
-- 📧 Email: `j2eeexpert2015@gmail.com`  
-- 💬 Slack: [Join Community](https://join.slack.com/t/learningfromexp/shared_invite/zt-1fnksxgd0-_jOdmIq2voEeMtoindhWrA)  
 - 📝 Blog: [@mrayandutta on Medium](https://medium.com/@mrayandutta)  
 - 💼 LinkedIn: [Ayan Dutta](https://www.linkedin.com/in/ayan-dutta-a41091b)  
-- 📺 YouTube: [LearningFromExperience](https://www.youtube.com/@learningfromexperience)
+- 📺 YouTube: [LearningFromExperience](https://www.youtube.com/@learningfromexperience)  
+- 💬 Slack: [Join Community](https://join.slack.com/t/learningfromexp/shared_invite/zt-1fnksxgd0-_jOdmIq2voEeMtoindhWrA)  
+- 📧 Email: `j2eeexpert2015@gmail.com`  
 
 ---
