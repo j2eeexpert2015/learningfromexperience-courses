@@ -1,5 +1,3 @@
-# 🎓 LearningFromExperience – My Udemy Course Collection
-
 🎯 **Click any course below to enroll with my Referral Discount Code already applied** – save instantly on every course!
 
 💡 **Got Udemy Business at work?** You're in luck! Most courses below are included in your subscription – look for the `⭐ UDEMY BUSINESS` badge
