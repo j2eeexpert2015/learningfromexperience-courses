@@ -7,6 +7,26 @@ Request via [Slack](https://join.slack.com/t/learningfromexp/shared_invite/zt-1f
 
 ---
 
+## 🆕 Latest Course
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.udemy.com/course/java-21-features-deep-dive-spring-boot/?referralCode=CDC7BED9F600635A8731">
+        <img src="https://img-c.udemycdn.com/course/480x270/7202097_f944_3.jpg" width="260">
+        <br/><b>Java 21 Features Deep Dive: Virtual Threads & Spring Boot</b>
+      </a>
+      <br/><i>Master Java 21: Pattern Matching, Sequenced Collections, Virtual Threads, Generational ZGC and Spring Boot Demos</i>
+      <br/><br/>
+      <a href="https://www.udemy.com/course/java-21-features-deep-dive-spring-boot/?referralCode=CDC7BED9F600635A8731">
+        <img src="https://img.shields.io/badge/Udemy-Enroll%20with%20Discount-brightgreen?style=for-the-badge&logo=udemy">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🔥 Featured Courses
 
 <table>
